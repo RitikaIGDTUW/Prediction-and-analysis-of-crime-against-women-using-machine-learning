@@ -59,7 +59,9 @@ The study uses crime data from 2017-2022 with the following features:
 
 ## Key Findings  
 - **Hotspot Identification**: States like Uttar Pradesh, Bihar, and Rajasthan show consistently high crime rates.  
-- **Cybercrime Trends**: Significant rise in women-targeted cybercrimes post-2020.  
+- **Irregularity During Lockdown**: A significant drop in reported crimes was observed during the COVID-19 lockdown period (2020), likely due to limited mobility and restricted reporting mechanisms, rather than a genuine decrease in crimes.  
+- **Population-Adjusted Crime Rates**: When normalized for population, Assam shows unusually high crime rates, which may reflect better reporting mechanisms or unique socio-economic challenges in the region.  
+- **Cybercrime Trends**: Significant rise in women-targeted cybercrimes post-2020, attributed to increased internet usage and social media activity.  
 - **Predictors of Crime**: Population density, education levels, and socio-economic inequality are strong predictors of crime rates.  
 
 ---
